@@ -20,15 +20,15 @@ I enjoy sharing knowledge with other developers in the form of public speaking. 
 
 | Talk                                                                                               | Conference               |
 |----------------------------------------------------------------------------------------------------|--------------------------|
-| [Running WebAssembly Workloads Side-by-side with Container Workloads](https://youtu.be/Bq5aTYyRBH0?si=iZBZpCwrKC2pr6Mo) | '24 KubeCon              |
-| [WASI to Go: Write Once, Go Anywhere](https://youtu.be/IM9Leoqc-xY?si=Z3oHmejr2thxkw9K)            | '24 WasmCon              |
-| [Virtual Machines, Containers and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?si=RUCqCK7q9fi8W2jQ) | '24 Cloud Native Rejekts |
-| [WASI and the Cloud: A Game-Changing Duo](https://youtu.be/vCwXSedT674?si=i6yMelBnUEVkkj3t)        | '24 KubeCon WasmDay EU   |
-| [Go Meets Wasm: Harnessing the Power of Wasm Components with Go (中文)](https://youtu.be/Q7BIJX7gTGg?si=f5d_YQF28zZ4gsXI) | '23 KCD Shenzhen         |
-| [Take Wasi-Cloud-Core for a Spin](https://youtu.be/W-ubCAMAJQc?si=Z1PaRhU18IMfOXns)                | '23 WasmCon              |
-| [WASI and the Cloud](https://youtu.be/5WQRT62V_VU)                                                 | '23 KubeCon EU           |
-| [Hands on with WebAssembly Microservices & Kubernetes](https://youtu.be/LdsyS2cedOw)               | '23 KubeCon EU           |
-| [A New Kind of Cloud System Interface with WebAssembly](https://youtu.be/zEPeMN0ZlBM)              | '22 Cloud Native Rejekts |
+| [Running WebAssembly Workloads Side-by-side with Container Workloads](https://youtu.be/Bq5aTYyRBH0?si=iZBZpCwrKC2pr6Mo) | '24 KubeCon 🇺🇸             |
+| [WASI to Go: Write Once, Go Anywhere](https://youtu.be/IM9Leoqc-xY?si=Z3oHmejr2thxkw9K)            | '24 WasmCon 🇺🇸              |
+| [Virtual Machines, Containers and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?si=RUCqCK7q9fi8W2jQ) | '24 Cloud Native Rejekts 🇺🇸 |
+| [WASI and the Cloud: A Game-Changing Duo](https://youtu.be/vCwXSedT674?si=i6yMelBnUEVkkj3t)        | '24 KubeCon WasmDay EU 🇫🇷   |
+| [Go Meets Wasm: Harnessing the Power of Wasm Components with Go (中文)](https://youtu.be/Q7BIJX7gTGg?si=f5d_YQF28zZ4gsXI) | '23 KCD Shenzhen 🇨🇳        |
+| [Take Wasi-Cloud-Core for a Spin](https://youtu.be/W-ubCAMAJQc?si=Z1PaRhU18IMfOXns)                | '23 WasmCon 🇺🇸             |
+| [WASI and the Cloud](https://youtu.be/5WQRT62V_VU)                                                 | '23 KubeCon EU 🇳🇱          |
+| [Hands on with WebAssembly Microservices & Kubernetes](https://youtu.be/LdsyS2cedOw)               | '23 KubeCon EU 🇳🇱          |
+| [A New Kind of Cloud System Interface with WebAssembly](https://youtu.be/zEPeMN0ZlBM)              | '22 Cloud Native Rejekts 🇺🇸 |
 
 You may find the full list of my talks at my YouTube channel [here](https://www.youtube.com/channel/UCKxo2eM8yW3cj42DaXx154Q).
 
