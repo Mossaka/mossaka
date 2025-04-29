@@ -2,7 +2,7 @@
 
 My name is Jiaxiao (Joe) Zhou, and I also go by Mossaka. I love building things that make developers' lives easier 💙.
 
-I'm currently working at Microsoft's [DeisLabs](https://deislabs.io/) as a Software Engineer. Here are three tags that say a lot about my career
+I'm currently working at Microsoft's Azure Container Upstream team as a Software Engineer. Here are three tags that say a lot about my career
 
 - Open Source
 - WebAssembly
